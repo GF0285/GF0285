@@ -20,9 +20,9 @@
     <td>
       <h3><a href="https://github.com/GF0285/torsh-block">Torsh Block</a></h3>
       <div dir="rtl" align="right">
-        <p>حاجب إعلانات مجاني 100% لهواتف أندرويد وأجهزة التلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>). يحجب الإعلانات والمتتبّعات في كل التطبيقات بدون روت، مع <span dir="ltr">DNS</span> مشفّر ووضع تجاوز <span dir="ltr">DPI</span>، وواجهة بالعربية والدارجة.</p>
+        <p><b>إعلانات أقل، راحة أكثر.</b> حاجب إعلانات مجاني لأندرويد والتلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>)، بدون روت. يحجب الإعلانات والمتتبّعات في كل التطبيقات، مع <span dir="ltr">DNS</span> مشفّر ووضع تجاوز <span dir="ltr">DPI</span>، وواجهة بالعربية والدارجة.</p>
       </div>
-      <p>100% free ad blocker for Android, Android TV &amp; Fire TV. Blocks ads and trackers in every app without root, with encrypted DNS, a DPI bypass mode and an Arabic / Darija UI.</p>
+      <p><b>Fewer ads. More calm.</b> A free ad blocker for Android, Android TV &amp; Fire TV, no root. Blocks ads and trackers in every app, with encrypted DNS, a DPI bypass mode and an Arabic / Darija UI.</p>
       <p>
         <a href="https://github.com/GF0285/torsh-block/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/GF0285/torsh-block?label=release&color=2F80ED&labelColor=0B1F3A"></a>
         <a href="https://github.com/GF0285/torsh-block/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/GF0285/torsh-block/total?color=2F80ED&labelColor=0B1F3A"></a>
@@ -38,7 +38,7 @@
 <div dir="rtl" align="right">
 
 ### 💙 ادعم عملي
-تطبيقاتي مجانية 100%. إن أردت دعمي، يمكنك التبرع بعملة **<span dir="ltr">GRAM</span>** على شبكة **<span dir="ltr">TON</span>** فقط:
+تطبيقاتي مجانية. إن أردت دعمي، يمكنك التبرع بعملة **<span dir="ltr">GRAM</span>** على شبكة **<span dir="ltr">TON</span>** فقط:
 
 </div>
 
@@ -55,7 +55,7 @@ UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
 I build free Android apps that respect your privacy and speak your language, on phones and TVs.
 
 ### 💙 Support my work
-My apps are 100% free. If you'd like to support me, you can donate **GRAM on the TON network** (GRAM on TON only) to the wallet above.
+My apps are free. If you'd like to support me, you can donate **GRAM on the TON network** (GRAM on TON only) to the wallet above.
 
 <p align="center" dir="rtl">صُنع بـ ♥️ من طرف <span dir="ltr">GF0285</span> عضو كل من <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span></p>
 <p align="center">Made with ♥️ by GF0285, member of GeeksFamily and DWM</p>
