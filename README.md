@@ -57,4 +57,5 @@ I build free Android apps that respect your privacy and speak your language, on 
 ### 💙 Support my work
 My apps are 100% free. If you'd like to support me, you can donate **GRAM on the TON network** (GRAM on TON only) to the wallet above.
 
-<p align="center">صُنع بـ ♥️ من طرف GF0285 عضو كل من GeeksFamily و DWM<br>Made with ♥️ by GF0285, member of GeeksFamily and DWM</p>
+<p align="center" dir="rtl">صُنع بـ ♥️ من طرف GF0285 عضو كل من GeeksFamily و DWM</p>
+<p align="center">Made with ♥️ by GF0285, member of GeeksFamily and DWM</p>
