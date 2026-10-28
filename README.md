@@ -1,61 +1,72 @@
+<a name="top"></a>
+<p align="center"><img src="assets/banner.png" alt="GF0285 — مطوّر Torsh Block، عضو في GeeksFamily و DWM · Developer of Torsh Block, member of GeeksFamily and DWM" width="100%"></p>
+
 <p align="center">
-  <img src="assets/banner.png" alt="GF0285 — مطوّر Torsh Block، عضو في GeeksFamily و DWM" width="100%">
+  <a href="#ar"><img src="assets/lang_ar.png" alt="العربية" height="36"></a>
+  <a href="#ary"><img src="assets/lang_ary.png" alt="الدارجة المغربية" height="36"></a>
+  <a href="#en"><img src="assets/lang_en.png" alt="English" height="36"></a>
+  <a href="#es"><img src="assets/lang_es.png" alt="Español" height="36"></a>
 </p>
 
+<p align="center"><a href="https://github.com/GF0285/torsh-block"><img src="assets/torsh-block-card.png" alt="Torsh Block — حاجب إعلانات مجاني 100% · The 100% free ad blocker" width="640"></a></p>
+
+<p align="center">
+  <a href="https://github.com/GF0285/torsh-block/releases/latest"><img alt="v0.5.0" src="https://img.shields.io/badge/version-v0.5.0-2F80ED?style=for-the-badge&labelColor=06101F"></a>
+  <a href="https://torsh.torshblock.workers.dev"><img alt="Android 5.0+" src="https://img.shields.io/badge/Android-5.0%2B-2F80ED?style=for-the-badge&logo=android&logoColor=white&labelColor=06101F"></a>
+  <a href="https://torsh.torshblock.workers.dev"><img alt="Android TV · Fire TV" src="https://img.shields.io/badge/Android%20TV%20%C2%B7%20Fire%20TV-122A4A?style=for-the-badge"></a>
+  <a href="https://torsh.torshblock.workers.dev"><img alt="100% free" src="https://img.shields.io/badge/100%25-free-E53935?style=for-the-badge&labelColor=06101F"></a>
+</p>
+
+---
+
+<a name="ar"></a>
 <div dir="rtl" align="right">
 
-## مرحبًا 👋
+### 👋 مرحبًا، أنا <span dir="ltr">GF0285</span>
+مطوّر تطبيق <span dir="ltr">Torsh Block</span>، وعضو في <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span>. أبني تطبيقات أندرويد مجانية تحترم خصوصيتك وتعمل بلغتك، على الهاتف والتلفاز.
 
-**<span dir="ltr">GF0285</span>**، مطوّر تطبيق <span dir="ltr">Torsh Block</span>، وعضو في <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span>.
-
-أبني تطبيقات أندرويد مجانية تحترم خصوصيتك وتعمل بلغتك، على الهاتف والتلفاز.
-
-### ⭐ المشروع المميّز
+⭐ **[<span dir="ltr">Torsh Block</span>](https://github.com/GF0285/torsh-block):** حاجب إعلانات مجاني <span dir="ltr">100%</span> لهواتف أندرويد و <span dir="ltr">Android TV</span> و <span dir="ltr">Fire TV</span>، بلا روت. ⬇️ [صفحة التحميل](https://torsh.torshblock.workers.dev)
 
 </div>
 
-<table>
-  <tr>
-    <td width="45%"><a href="https://github.com/GF0285/torsh-block"><img src="assets/torsh-block-card.png" alt="Torsh Block" width="100%"></a></td>
-    <td>
-      <h3><a href="https://github.com/GF0285/torsh-block">Torsh Block</a></h3>
-      <div dir="rtl" align="right">
-        <p><b>إعلانات أقل، راحة أكثر.</b> حاجب إعلانات مجاني 100% لأندرويد والتلفاز (<span dir="ltr">Android TV</span> و<span dir="ltr">Fire TV</span>)، بدون روت. يحجب الإعلانات والمتتبّعات في كل التطبيقات، مع <span dir="ltr">DNS</span> مشفّر ووضع تجاوز <span dir="ltr">DPI</span>، وواجهة بالعربية والدارجة.</p>
-      </div>
-      <p><b>Fewer ads. More calm.</b> A 100% free ad blocker for Android, Android TV &amp; Fire TV, no root. Blocks ads and trackers in every app, with encrypted DNS, a DPI bypass mode and an Arabic / Darija UI.</p>
-      <p>
-        <a href="https://github.com/GF0285/torsh-block/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/GF0285/torsh-block?label=release&color=2F80ED&labelColor=0B1F3A"></a>
-        <a href="https://github.com/GF0285/torsh-block/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/GF0285/torsh-block/total?color=2F80ED&labelColor=0B1F3A"></a>
-        <img alt="Android 5.0+ · Android TV · Fire TV" src="https://img.shields.io/badge/Android%205.0%2B-Android%20TV%20%C2%B7%20Fire%20TV-2F80ED?labelColor=0B1F3A">
-        <img alt="100% free" src="https://img.shields.io/badge/100%25-free-E53935?labelColor=0B1F3A">
-        <img alt="License: proprietary" src="https://img.shields.io/badge/license-proprietary-B0BEC5?labelColor=0B1F3A">
-      </p>
-      <p><a href="https://github.com/GF0285/torsh-block/releases/latest"><b>⬇️ تنزيل آخر إصدار · Download the latest release</b></a></p>
-    </td>
-  </tr>
-</table>
+<a name="ary"></a>
+<div dir="rtl" align="right">
+
+### 👋 السلام، أنا <span dir="ltr">GF0285</span>
+كنطوّر تطبيق <span dir="ltr">Torsh Block</span>، وعضو فـ <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span>. كنصاوب تطبيقات أندرويد مجانية كتحترم الخصوصية ديالك وكتهضر بلغتك، فالتيليفون والتلفازة.
+
+⭐ **[<span dir="ltr">Torsh Block</span>](https://github.com/GF0285/torsh-block):** بلوكير ديال الإشهارات مجاني <span dir="ltr">100%</span> لأندرويد و <span dir="ltr">Android TV</span> و <span dir="ltr">Fire TV</span>، بلا روت. ⬇️ [صفحة التحميل](https://torsh.torshblock.workers.dev)
+
+</div>
+
+<a name="en"></a>
+
+### 👋 Hi, I'm GF0285
+Developer of Torsh Block, member of GeeksFamily and DWM. I build free Android apps that respect your privacy and speak your language, on phones and TVs.
+
+⭐ **[Torsh Block](https://github.com/GF0285/torsh-block):** the 100% free ad blocker for Android phones, Android TV and Fire TV. No root. ⬇️ [Download page](https://torsh.torshblock.workers.dev)
+
+<a name="es"></a>
+
+### 👋 Hola, soy GF0285
+Desarrollador de Torsh Block y miembro de GeeksFamily y DWM. Creo apps Android gratuitas que respetan tu privacidad y hablan tu idioma, en el móvil y en la TV.
+
+⭐ **[Torsh Block](https://github.com/GF0285/torsh-block):** el bloqueador de anuncios 100% gratis para móviles Android, Android TV y Fire TV. Sin root. ⬇️ [Página de descarga](https://torsh.torshblock.workers.dev)
+
+---
 
 <div dir="rtl" align="right">
 
-### 💙 ادعم عملي
-تطبيقاتي مجانية 100%. إن أردت دعمي، يمكنك التبرع بعملة **<span dir="ltr">GRAM</span>** على شبكة **<span dir="ltr">TON</span>** فقط:
+### 💙 ادعم عملي · <span dir="ltr">Support my work</span>
+تطبيقاتي مجانية <span dir="ltr">100%</span>. للدعم: عملة <span dir="ltr">GRAM</span> على شبكة <span dir="ltr">TON</span> فقط.
 
 </div>
+
+<sub>My apps are 100% free. To support me: GRAM on the TON network only. · Mis apps son 100% gratis. Para apoyarme: GRAM solo en la red TON.</sub>
 
 ```
 UQDUobwrdGFonu5sWIyyEn7WOwcT-uwuGoKYECwrQq2KdjYR
 ```
 
----
-
-## Hi 👋
-
-**GF0285** — developer of Torsh Block, member of GeeksFamily and DWM.
-
-I build free Android apps that respect your privacy and speak your language, on phones and TVs.
-
-### 💙 Support my work
-My apps are 100% free. If you'd like to support me, you can donate **GRAM on the TON network** (GRAM on TON only) to the wallet above.
-
-<p align="center" dir="rtl">صُنع بـ ♥️ من طرف <span dir="ltr">GF0285</span> عضو كل من <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span></p>
-<p align="center">Made with ♥️ by GF0285, member of GeeksFamily and DWM</p>
+<p align="center" dir="rtl"><b>صُنع بـ ♥️ من طرف <span dir="ltr">GF0285</span> عضو كل من <span dir="ltr">GeeksFamily</span> و <span dir="ltr">DWM</span></b></p>
+<p align="center"><sub>Made with ♥️ by GF0285, member of GeeksFamily and DWM · Hecho con ♥️ por GF0285, miembro de GeeksFamily y DWM</sub></p>
